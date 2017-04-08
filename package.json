@@ -1,0 +1,30 @@
+{
+  "name": "multiplayergame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "browserify": "^14.3.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browserify": "^5.0.0",
+    "grunt-contrib-uglify": "^2.3.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^2.1.2"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigolol/learninghtml5multiplayerGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigolol/learninghtml5multiplayerGame/issues"
+  },
+  "homepage": "https://github.com/bigolol/learninghtml5multiplayerGame#readme"
+}
